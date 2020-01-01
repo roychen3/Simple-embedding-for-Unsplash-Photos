@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/roychen3/Simple-embedding-for-Unsplash-Photos/issues"
   },
-  "homepage": "https://roychen3.github.io/Simple-embedding-for-Unsplash-Photos#readme",
+  "homepage": "https://roychen3.github.io/Simple-embedding-for-Unsplash-Photos",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
