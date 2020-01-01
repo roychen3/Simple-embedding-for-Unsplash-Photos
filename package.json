@@ -1,0 +1,22 @@
+{
+  "name": "simple-embedding-for-unsplash-photos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roychen3/Simple-embedding-for-Unsplash-Photos.git"
+  },
+  "author": "Roy Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roychen3/Simple-embedding-for-Unsplash-Photos/issues"
+  },
+  "homepage": "https://roychen3.github.io/Simple-embedding-for-Unsplash-Photos#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
